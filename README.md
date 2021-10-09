@@ -2,7 +2,7 @@
 Here I have shown how you can ensemble multiple TensorFlow models together
 
 
-Here I ensembling 2 models together and by utilizing a third simple model. Data source for given matrix is flower data set in keggle here is the link for the data set is here https://www.kaggle.com/moltean/fruits
+I am ensembling 2 models together and by utilizing a third simple model. Data source for given matrix is flower data set in keggle here is the link for the data set is here https://www.kaggle.com/moltean/fruits
 
 <p>
 However I have not taken entire dataset as I was doing it on collab with limited resources.
